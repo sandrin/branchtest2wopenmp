@@ -2,6 +2,7 @@
 two small windows c programs that test some branching stuff with and without openmp
 
 results using clang -O0/3 -march=x86-64-v4 (-fopenmp) with times from my 9950x3d
+```-----------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------
 |   O0:                                             |   O3:                                         |
 |                                                   |                                               |
